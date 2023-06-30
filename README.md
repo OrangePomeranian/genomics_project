@@ -1,4 +1,4 @@
-# genomics_projects
+# Genomic Analysis of Canis lupus
 
 Comparative analysis of mitochondrial genomes was performed after downloading data from the NCBI database. The reference genome was the domestic dog, and we compared it with other canids. The analysis was performed using Docker software.
 
